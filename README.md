@@ -18,9 +18,9 @@ A brief introduction of quantum error correction which is essential in quantum c
 A compilation of my mathematical solutions posted on Zhihu and Math Stack Exchange, including limits, series, inequalities, integrals, and special functions.
 
 ## Computer
-- [TikZ: Contour Examples:](computer/tikz-example-contour-integration.pdf)  
-2023.5.2  
-Demonstrations of contour drawings using TikZ, which are essential in complex analysis.
+- [TikZ Examples: Typical Contours in Complex Analysis:](computer/tikz-example-contour-integration.pdf)  
+2024.8.24  
+Demonstrations of typical contour drawings using TikZ, which are essential in complex analysis.
 
 # License
 
