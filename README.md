@@ -17,8 +17,11 @@ A brief introduction of quantum error correction which is essential in quantum c
 2023.4.23  
 A compilation of my mathematical solutions posted on Zhihu and Math Stack Exchange, including limits, series, inequalities, integrals, and special functions.
 
-## Computer
-- [TikZ Examples: Typical Contours in Complex Analysis:](computer/tikz-example-contour-integration.pdf)  
+## LaTeX
+- [LaTeX Template: SYSU School of Physics and Astronomy Lab Report Template:](latex/SYSU-SPA-LabReport-Template.pdf)  
+2024.5.22  
+A custom LaTeX template made by myself for lab reports at the School of Physics and Astronomy, Sun Yat-sen University.
+- [TikZ Examples: Typical Contours in Complex Analysis:](latex/tikz-example-contour-integration.pdf)  
 2024.8.24  
 Demonstrations of typical contour drawings using TikZ, which are essential in complex analysis.
 
